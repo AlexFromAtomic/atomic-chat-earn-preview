@@ -10,15 +10,15 @@
     "file": "_next/static/chunks/rolldown-runtime-hePW80VL.js",
     "name": "rolldown-runtime"
   },
-  "_vinext-Dbu-F5OD.js": {
-    "file": "_next/static/chunks/vinext-Dbu-F5OD.js",
+  "_vinext-fMd3FTLM.js": {
+    "file": "_next/static/chunks/vinext-fMd3FTLM.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js"
     ],
     "dynamicImports": [
-      "_vinext-Dbu-F5OD.js"
+      "_vinext-fMd3FTLM.js"
     ]
   },
   "components/copy-command.tsx": {
@@ -42,39 +42,39 @@
     ]
   },
   "node_modules/vinext/dist/shims/image.js": {
-    "file": "_next/static/chunks/image-BQCM9lwr.js",
+    "file": "_next/static/chunks/image-CJkD5f11.js",
     "name": "image",
     "src": "node_modules/vinext/dist/shims/image.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-Dbu-F5OD.js"
+      "_vinext-fMd3FTLM.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-DBtRt3f_.js",
+    "file": "_next/static/chunks/layout-segment-context-DztMxPko.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-Dbu-F5OD.js"
+      "_vinext-fMd3FTLM.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-Ciwl0ags.js",
+    "file": "_next/static/chunks/index-CKwEyGjb.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-Dbu-F5OD.js"
+      "_vinext-fMd3FTLM.js"
     ],
     "dynamicImports": [
-      "_vinext-Dbu-F5OD.js",
+      "_vinext-fMd3FTLM.js",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "components/copy-command.tsx",
       "components/model-throughput.tsx",
