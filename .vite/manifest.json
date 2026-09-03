@@ -10,21 +10,21 @@
     "file": "_next/static/chunks/rolldown-runtime-hePW80VL.js",
     "name": "rolldown-runtime"
   },
-  "_vinext-DZGYdSb6.js": {
-    "file": "_next/static/chunks/vinext-DZGYdSb6.js",
+  "_vinext-DLFfJETP.js": {
+    "file": "_next/static/chunks/vinext-DLFfJETP.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js"
     ],
     "dynamicImports": [
-      "_vinext-DZGYdSb6.js"
+      "_vinext-DLFfJETP.js"
     ]
   },
-  "components/copy-command.tsx": {
-    "file": "_next/static/chunks/copy-command-B-3MhmZd.js",
-    "name": "copy-command",
-    "src": "components/copy-command.tsx",
+  "components/atomic-site-chrome.tsx": {
+    "file": "_next/static/chunks/atomic-site-chrome-Bi-V4X6N.js",
+    "name": "atomic-site-chrome",
+    "src": "components/atomic-site-chrome.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
@@ -52,44 +52,44 @@
     ]
   },
   "node_modules/vinext/dist/shims/image.js": {
-    "file": "_next/static/chunks/image-DavLS-JR.js",
+    "file": "_next/static/chunks/image-DrTaGTh7.js",
     "name": "image",
     "src": "node_modules/vinext/dist/shims/image.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-DZGYdSb6.js"
+      "_vinext-DLFfJETP.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-AjQv9SVh.js",
+    "file": "_next/static/chunks/layout-segment-context-DhTOaZbU.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-DZGYdSb6.js"
+      "_vinext-DLFfJETP.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-CGK8IuL7.js",
+    "file": "_next/static/chunks/index-CtQxvaK1.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-DZGYdSb6.js"
+      "_vinext-DLFfJETP.js"
     ],
     "dynamicImports": [
-      "_vinext-DZGYdSb6.js",
+      "_vinext-DLFfJETP.js",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
-      "components/copy-command.tsx",
       "components/model-throughput.tsx",
       "components/install-switcher.tsx",
-      "node_modules/vinext/dist/shims/image.js"
+      "node_modules/vinext/dist/shims/image.js",
+      "components/atomic-site-chrome.tsx"
     ]
   }
 }
