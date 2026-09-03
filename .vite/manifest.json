@@ -10,15 +10,15 @@
     "file": "_next/static/chunks/rolldown-runtime-hePW80VL.js",
     "name": "rolldown-runtime"
   },
-  "_vinext-DxYt44x6.js": {
-    "file": "_next/static/chunks/vinext-DxYt44x6.js",
+  "_vinext-Djyq4JwI.js": {
+    "file": "_next/static/chunks/vinext-Djyq4JwI.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js"
     ],
     "dynamicImports": [
-      "_vinext-DxYt44x6.js"
+      "_vinext-Djyq4JwI.js"
     ]
   },
   "components/copy-command.tsx": {
@@ -32,14 +32,13 @@
     ]
   },
   "components/install-switcher.tsx": {
-    "file": "_next/static/chunks/install-switcher-gNZ9OTKt.js",
+    "file": "_next/static/chunks/install-switcher-Cu8lNrDf.js",
     "name": "install-switcher",
     "src": "components/install-switcher.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
-      "_framework-DTZGTDtF.js",
-      "components/copy-command.tsx"
+      "_framework-DTZGTDtF.js"
     ]
   },
   "components/model-throughput.tsx": {
@@ -53,39 +52,39 @@
     ]
   },
   "node_modules/vinext/dist/shims/image.js": {
-    "file": "_next/static/chunks/image-CiSLIPux.js",
+    "file": "_next/static/chunks/image-DNXK0OY1.js",
     "name": "image",
     "src": "node_modules/vinext/dist/shims/image.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-DxYt44x6.js"
+      "_vinext-Djyq4JwI.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-CA66rcqz.js",
+    "file": "_next/static/chunks/layout-segment-context-B3M4q97g.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-DxYt44x6.js"
+      "_vinext-Djyq4JwI.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-icInvvR1.js",
+    "file": "_next/static/chunks/index-CZWGZf9N.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-DxYt44x6.js"
+      "_vinext-Djyq4JwI.js"
     ],
     "dynamicImports": [
-      "_vinext-DxYt44x6.js",
+      "_vinext-Djyq4JwI.js",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "components/copy-command.tsx",
       "components/model-throughput.tsx",
