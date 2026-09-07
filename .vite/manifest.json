@@ -10,15 +10,15 @@
     "file": "_next/static/chunks/rolldown-runtime-hePW80VL.js",
     "name": "rolldown-runtime"
   },
-  "_vinext-kL2cV0Yc.js": {
-    "file": "_next/static/chunks/vinext-kL2cV0Yc.js",
+  "_vinext-BrY43Whs.js": {
+    "file": "_next/static/chunks/vinext-BrY43Whs.js",
     "name": "vinext",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js"
     ],
     "dynamicImports": [
-      "_vinext-kL2cV0Yc.js"
+      "_vinext-BrY43Whs.js"
     ]
   },
   "components/atomic-site-chrome.tsx": {
@@ -52,39 +52,39 @@
     ]
   },
   "node_modules/vinext/dist/shims/image.js": {
-    "file": "_next/static/chunks/image-CtJLJjVx.js",
+    "file": "_next/static/chunks/image-Jgfsgocq.js",
     "name": "image",
     "src": "node_modules/vinext/dist/shims/image.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-kL2cV0Yc.js"
+      "_vinext-BrY43Whs.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-BuJ_Ji_d.js",
+    "file": "_next/static/chunks/layout-segment-context-64cndzCp.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-kL2cV0Yc.js"
+      "_vinext-BrY43Whs.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-iZGWzhd1.js",
+    "file": "_next/static/chunks/index-CnoPqlES.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "_framework-DTZGTDtF.js",
-      "_vinext-kL2cV0Yc.js"
+      "_vinext-BrY43Whs.js"
     ],
     "dynamicImports": [
-      "_vinext-kL2cV0Yc.js",
+      "_vinext-BrY43Whs.js",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "components/model-throughput.tsx",
       "components/install-switcher.tsx",
